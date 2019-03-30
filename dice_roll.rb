@@ -8,6 +8,7 @@ def roll
   nums[rand(1..6)]
 end
 
-roll
-roll
-roll
+puts roll
+puts roll
+puts roll
+puts roll
