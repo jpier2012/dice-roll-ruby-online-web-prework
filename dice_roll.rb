@@ -8,7 +8,3 @@ def roll
   nums[rand(0..5)]
 end
 
-puts roll
-puts roll
-puts roll
-puts roll
